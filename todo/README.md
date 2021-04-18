@@ -1,6 +1,14 @@
-# todo
+# todo - A Simple ToDo App made with Flutter 2
 
-A new Flutter project.
+Features
+-Add New Task
+  -Title
+  -Descrription
+  -Priority (Low, Medium, High)
+  -Date
+-Edit Existing Task
+-Complete Task
+-Delete Task
 
 ## Getting Started
 
